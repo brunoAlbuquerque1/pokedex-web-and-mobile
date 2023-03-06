@@ -1,2 +1,2 @@
-# pokedex-React-Native
-Pokedex with react-native and typeScript
+# pokedex
+Pokedex with react-native and reactJs
